@@ -1,0 +1,195 @@
+body{
+	background:linear-gradient(to left, #F1DE13 , #fff 40%, #F1DE13  );
+}
+.container-fluid{
+	background:linear-gradient(180deg, #1352F3 , #F1DE13);
+	position:fixed;
+	width:100%;
+}
+.logout{
+	background:red;
+	color:#fff;
+	width:100px;
+	height:40px;
+	font-size:18px;
+	border:transparent;
+	margin-top:5px;
+}
+.signup{
+	color:#fff;
+	width:100px;
+	height:40px;
+	font-size:18px;
+	border:transparent;
+	margin-top:5px;
+	background:#65afed;
+	margin-right:10px;
+}
+.login{
+	color:#fff;
+	width:100px;
+	height:40px;
+	font-size:18px;
+	border:transparent;
+	margin-top:5px;
+	background:#F1DE13;
+}
+.btn .btn-default{
+	background:black;
+	color:#fff;
+}
+
+.aboutsite{
+	width:100%;
+	height:1000px;
+	background:linear-gradient(to left, #F1DE13 , #fff 40%, #F1DE13  );
+
+}
+
+.leftimg{
+	text-align:left;
+	margin:0;
+	display:inline-block;
+	margin-top:170px;
+}
+.comp{
+	display:inline;
+	width:500px;
+	margin-left:80px;
+}
+.infaboutsite{
+	width:400px;
+	color:#1352F3;
+	vertical-align:middle;
+	max-height:100%;
+	display:inline-block;
+	margin-left:55px;
+}
+.infaboutsite p{
+	font-style:italic;
+	font-size:18px;
+	color:#DAA520;
+
+}
+.infaboutsite h1{
+	font-weight:bold;
+	font-family:Astakhov Dished;
+}
+.btn-primary:hover{
+	background:linear-gradient( #191970 , #0000CD);
+}
+.btn-warning:hover{
+	background:linear-gradient(#FF4500, #eb9316);
+}
+.btn-danger:hover{
+	background:linear-gradient(#8B0000, #c12e2a);
+}
+.container-fluid a:hover{
+	color:#8B4513;
+}
+.abilities h1{
+	color:#1352F3;
+	font-weight:bold;
+	font-family:Astakhov Dished;
+}
+.abilities p{
+	font-style:italic;
+	font-size:18px;
+	color:#DAA520;
+}
+
+.rightimg img{
+	height:500px;
+	width:400px;
+}
+.rightimg{
+	display:inline-block;
+	text-align:left;
+	margin-left:40px;
+}
+.abilities{
+	width:400px;
+	color:#1352F3;
+	display:inline-block;
+	max-height:100%;
+	margin-left:200px;
+}
+
+.status{
+	text-align:center;
+	margin-top:50px;
+	background:#F2B811;
+}
+.counter_value{
+	margin-top:80px;
+	padding-left: 0;
+    margin-bottom: 15px;
+    list-style: none;
+    white-space: nowrap;
+    font-size: 0;
+
+}
+.counter_value li{
+	background-color:#33CAFF;
+	color:#fff;
+	width:39px;
+	font-size:46px;
+	height:68px;
+	display:inline-block;
+	vertical-align:center;	
+	border-radius:2px;
+	font-weight:500;
+	background-position: 50%;
+    background-size: contain;
+    padding-left:2px;
+    margin-right:4px;
+    margin-bottom:10px;
+}
+.c0{
+	margin-left:10px;
+}
+.counter_value h4{
+	color: #172b53;
+}
+.ghg{
+	padding-bottom:40px;
+}
+
+.status h1{
+	color:#191970;
+	padding-top:50px;
+}
+.comtitle{
+	text-align:center;
+	color:#fff;
+}
+.comtitle h1{
+	padding-top:100px;
+}
+.Comments{
+	background: linear-gradient(0deg,#65afed,#4f54d3);
+	width:100%;
+	height:800px;
+}
+.reviews{
+	text-align:center;
+	padding:250px;
+}
+
+.startschool{
+	 text-align:center;
+	 margin-top:100px;
+}
+.startschool button{
+	font-size:24px;
+	background:#65afed;
+	color:#fff;
+	border-radius:20px;
+	transition:background 2s;
+	width:200px;
+	height:70px;
+	border: transparent;
+}
+.startschool button:hover{
+	background:#4f54d3;
+}
